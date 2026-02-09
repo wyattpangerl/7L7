@@ -1,4 +1,6 @@
 # 7L7
 7L7: Ludicrous Leet Library 
 
-W31C0M3 70 7H3 118r4rY 0F 1337 1 H4V3 C0MP113D 4 118r4rY 0F 1337 5U857171710N5 1 H4V3 F0UND 0N W3851735 4ND Fr0M D01N6 C0MP371710N5 1 4M 4150 Cr3471N6 50M3 H45HC47 rU135 F0r 541D 118r4rY H4PPY H4CK1N6 
+Welcome to the library of Leet! I have put together a list of all the leet substitions I have found across various websites and in varoius password cracking CTF challenges, as it appears that no site has had them all. 
+
+H4PPY H4CK1N6 
